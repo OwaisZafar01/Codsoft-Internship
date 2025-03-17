@@ -6,10 +6,10 @@
 
 <ul>
   
-  <li>Calculator – A simple calculator for basic arithmetic operations.</li>
-  <li>Password Generator – A tool to generate secure passwords.</li>
-  <li>Rock Paper Scissors Game – A Python implementation of the classic game.</li>
-  <li>To-Do List – A basic task management application.</li>
+  <li> <strong> Calculator – A simple calculator for basic arithmetic operations. </strong></li>
+  <li> <strong> Password Generator – A tool to generate secure passwords. </strong></li>
+  <li> <strong> Rock Paper Scissors Game – A Python implementation of the classic game. </strong></li>
+  <li> <strong> To-Do List – A basic task management application.</strong></li>
 
 </ul>
 
